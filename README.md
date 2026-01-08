@@ -1,4 +1,4 @@
-<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/616a8a9c-7b3d-48c5-985d-9e8512af52a4" /><h1 align="center">Hi 👋, I'm Rishika Sharma</h1>
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/616a8a9c-7b3d-48c5-985d-9e8512af52a4" /><h1 align="center">Hi 👋, I'm Rishika Sharma</h1>
 <h3 align="center">Driven by technology, coding, and creative problem-solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikashr&label=Profile%20views&color=0e75b6&style=flat" alt="rishikashr" /> </p>
